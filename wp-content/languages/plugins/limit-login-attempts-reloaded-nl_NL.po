@@ -1,0 +1,330 @@
+# Translation of Plugins - Limit Login Attempts Reloaded - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Limit Login Attempts Reloaded - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-06-27 10:51:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Limit Login Attempts Reloaded - Stable (latest release)\n"
+
+#: views/tab-dashboard.php:77
+msgid "Deny Rules"
+msgstr "Regels weigeren"
+
+#: views/tab-dashboard.php:63
+msgid "Allow Rules"
+msgstr "Regels toestaan"
+
+#: views/options-page.php:16
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: views/tab-dashboard.php:91 views/tab-settings.php:144
+msgid "Save Settings"
+msgstr "Instellingen opslaan"
+
+#: views/tab-settings.php:82
+msgid "The workers absorb the main load caused by brute-force attacks, analyse login attempts and block unwanted visitors. They might provide other service functions as well."
+msgstr "De werkers nemen de hoofd load op veroorzaakt door brute-force aanvallen, analyseer de inlog verzoeken en blokker ongewenste bezoekers. Zij kunnen mogelijk ook andere diensten aanbieden."
+
+#: views/tab-settings.php:81
+msgid "Worker Settings"
+msgstr "Worker instellingen"
+
+#: views/tab-settings.php:23
+msgid "These settings are independent of the workers (see below)."
+msgstr "Deze instellingen zijn onafhankelijk van de werkers (zie hieronder)."
+
+#: views/tab-settings.php:22
+msgid "General Settings"
+msgstr "Algemene instellingen"
+
+#: core/LimitLoginAttempts.php:1340 core/LimitLoginAttempts.php:1384
+msgid "Settings saved."
+msgstr "Instellingen opgeslagen."
+
+#. Description of the plugin
+msgid "Limit the rate of login attempts for each IP address."
+msgstr "Beperk het aantal inlog verzoeken voor elk IP-adres."
+
+#: core/LimitLoginAttempts.php:1503
+msgid "Leave a review"
+msgstr "Geef een beoordeling"
+
+#: core/LimitLoginAttempts.php:1502
+msgid "Maybe later"
+msgstr "Misschien later"
+
+#: core/LimitLoginAttempts.php:1501
+msgid "Don't show again"
+msgstr "Niet meer tonen"
+
+#: core/LimitLoginAttempts.php:1498
+msgid "We would really like to hear your feedback about the plugin! Please take a couple minutes to write a few words <a href=\"https://wordpress.org/support/plugin/limit-login-attempts-reloaded/reviews/#new-post\" target=\"_blank\">here</a>. Thank you!"
+msgstr "We horen ook graag je feedback over de plugin! Neem een paar minuten de tijd om <a href=\"https://wordpress.org/support/plugin/limit-login-attempts-reloaded/reviews/#new-post\" target=\"_blank\">hier</a> een paar woorden te schrijven. Bedankt!"
+
+#: core/LimitLoginAttempts.php:1497
+msgid "A <strong>crazy idea</strong> we wanted to share! What if we put an image from YOU on the <a href=\"https://wordpress.org/plugins/limit-login-attempts-reloaded/\" target=\"_blank\">LLAR page</a>?! (<a href=\"https://wordpress.org/plugins/hello-dolly/\" target=\"_blank\">example</a>) A drawing made by you or your child would cheer people up! Send us your drawing by <a href=\"mailto:wpchef.me@gmail.com\" target=\"_blank\">email</a> and we like it, we'll add it in the next release. Let's have some fun!"
+msgstr "Een <strong>gek idee</strong> dat we wilden delen! Wat als we een afbeelding van JOU op de <a href=\"https://wordpress.org/plugins/limit-login-attempts-reloaded/\" target=\"_blank\"> LLAR pagina </a> plaatsen?! (<a href=\"https://wordpress.org/plugins/hello-dolly/\" target=\"_blank\">voorbeeld</a>) Een tekening die door jou of je kind is gemaakt, zou mensen opvrolijken! Stuur ons je tekening door <a href=\"mailto:wpchef.me@gmail.com\" target=\"_blank\">e-mail</a> en wanneer we het leuk vinden, dan zullen we het toevoegen in de volgende release. Laten we er wat leuks van maken!"
+
+#: core/LimitLoginAttempts.php:1496
+msgid "Hey <strong>Limit Login Attempts Reloaded</strong> user!"
+msgstr "Hey <strong>Limit Login Attempts Reloaded</strong> gebruiker!"
+
+#: views/tab-debug.php:40
+msgid "Copy the contents of the window and provide to support."
+msgstr "Kopieer de inhoud van het venster en zorg voor ondersteuning."
+
+#: views/options-page.php:18
+msgid "Debug"
+msgstr "Debug"
+
+#: views/options-page.php:17
+msgid "Settings"
+msgstr "Instellingen"
+
+#: views/tab-debug.php:37
+msgid "Debug info"
+msgstr "Debug info"
+
+#: views/tab-settings.php:117
+msgid "Specify the origins you trust in order of priority, separated by commas. We strongly recommend that you <b>do not</b> use anything other than REMOTE_ADDR since other origins can be easily faked. Examples: HTTP_X_FORWARDED_FOR, HTTP_CF_CONNECTING_IP, HTTP_X_SUCURI_CLIENTIP"
+msgstr "Geef in volgorde van prioriteit de bronnen op die je vertrouwt, gescheiden door komma's. Sterk aanbevolen om <b>niets anders</b> te gebruiken dan REMOTE_ADDR, omdat andere bronnen anders valselijk nagebootst kunnen worden. Voorbeelden:  HTTP_X_FORWARDED_FOR, HTTP_CF_CONNECTING_IP, HTTP_X_SUCURI_CLIENTIP"
+
+#: views/tab-settings.php:113
+msgid "Trusted IP Origins"
+msgstr "Vertrouwde IP adressen"
+
+#: views/tab-settings.php:73
+msgid "after"
+msgstr "na"
+
+#: views/tab-settings.php:70
+msgid "Email to"
+msgstr "Stuur e-mail naar"
+
+#: core/LimitLoginAttempts.php:1318
+msgid "The \""
+msgstr "De \""
+
+#: core/LimitLoginAttempts.php:1036
+msgid "<strong>ERROR</strong>: Incorrect email address or password."
+msgstr "<strong>FOUT</strong>: Ongeldig e-mailadres of wachtwoord."
+
+#. Author URI of the plugin
+msgid "https://wpchef.org"
+msgstr "https://wpchef.org"
+
+#. Author of the plugin
+msgid "WPChef"
+msgstr "WPChef"
+
+#: views/tab-settings.php:57
+msgid "this makes the plugin <a href=\"https://gdpr-info.eu/\" target=\"_blank\" >GDPR</a> compliant"
+msgstr "hierdoor voldoet de plugin aan <a href=\"https://gdpr-info.eu/\" target=\"_blank\" >GDPR</a>"
+
+#: views/tab-settings.php:54
+msgid "GDPR compliance"
+msgstr "Nakoming GDPR"
+
+#: views/tab-dashboard.php:66 views/tab-dashboard.php:80
+msgid "One IP or IP range (1.2.3.4-5.6.7.8) per line"
+msgstr "Eén IP-adres of -reeks (1.2.3.4-5.6.7.8) per regel"
+
+#. Plugin Name of the plugin
+#: views/options-page.php:13
+msgid "Limit Login Attempts Reloaded"
+msgstr "Limit Login Attempts Reloaded"
+
+#: views/tab-dashboard.php:118
+msgid "Gateway"
+msgstr "Gateway"
+
+#: views/tab-dashboard.php:117
+msgid "Tried to log in as"
+msgstr "Geprobeerd in te loggen als"
+
+#: views/tab-dashboard.php:116
+msgctxt "Internet address"
+msgid "IP"
+msgstr "IP"
+
+#: views/tab-dashboard.php:115
+msgid "Date"
+msgstr "Datum"
+
+#: views/tab-dashboard.php:107
+msgid "Clear Log"
+msgstr "Logbestand wissen"
+
+#: views/tab-dashboard.php:70 views/tab-dashboard.php:84
+msgid "One Username per line"
+msgstr "Eén gebruikersnaam per regel"
+
+#: views/tab-settings.php:76
+msgid "lockouts"
+msgstr "buitensluitingen"
+
+#: views/tab-dashboard.php:102
+msgid "Lockout log"
+msgstr "Log buitensluitingen"
+
+#: views/tab-settings.php:62
+msgid "Notify on lockout"
+msgstr "Stuur bericht bij buitensluiting"
+
+#: views/tab-settings.php:108
+msgid "hours until retries are reset"
+msgstr "uren voordat aantal nieuwe pogingen wordt gereset"
+
+#: views/tab-settings.php:105
+msgid "hours"
+msgstr "uren"
+
+#: views/tab-settings.php:102
+msgid "lockouts increase lockout time to"
+msgstr "Buitensluitingen verhogen tijdsduur buitensluiting tot"
+
+#: views/tab-settings.php:98
+msgid "minutes lockout"
+msgstr "minuten buitengesloten"
+
+#: views/tab-settings.php:94
+msgid "allowed retries"
+msgstr "toegestane nieuwe pogingen"
+
+#: views/tab-settings.php:89
+msgid "Lockout"
+msgstr "Buitensluiting"
+
+#: views/tab-settings.php:32
+msgid "Use global settings"
+msgstr "Globale instellingen gebruiken"
+
+#: views/tab-settings.php:30
+msgid "If disabled, the global settings will be forcibly applied to the entire network."
+msgstr "Indien uitgeschakeld, worden de globale instellingen toegepast op alle sites."
+
+#: views/tab-settings.php:29
+msgid "Let network sites use their own settings"
+msgstr "Sites in netwerk toestaan eigen instellingen te gebruiken."
+
+#: views/tab-dashboard.php:51
+msgid "%d IP is currently blocked from trying to log in"
+msgstr "%d IP momenteel geblokkeerd voor inloggen"
+
+#: views/tab-dashboard.php:49
+msgid "Restore Lockouts"
+msgstr "Buitensluitingen herstellen"
+
+#: views/tab-dashboard.php:46
+msgid "Active lockouts"
+msgstr "Actieve buitensluitingen"
+
+#: views/tab-dashboard.php:39
+msgid "No lockouts yet"
+msgstr "Nog geen buitensluitingen"
+
+#: views/tab-dashboard.php:37
+msgid "%d lockout since last reset"
+msgid_plural "%d lockouts since last reset"
+msgstr[0] "%d buitensluiting sinds laatste reset"
+msgstr[1] "%d buitensluitingen sinds laatste reset"
+
+#: views/tab-dashboard.php:35
+msgid "Reset Counter"
+msgstr "Teller terugzetten"
+
+#: views/tab-dashboard.php:31
+msgid "Total lockouts"
+msgstr "Totaal aantal buitensluitingen"
+
+#: views/tab-dashboard.php:26
+msgid "Statistics"
+msgstr "Statistieken"
+
+#: core/LimitLoginAttempts.php:1284
+msgid "Cleared current lockouts"
+msgstr "Huidige buitensluitingen ongedaan gemaakt"
+
+#: core/LimitLoginAttempts.php:1277
+msgid "Reset lockout count"
+msgstr "Teller buitensluiting(en) terugzetten"
+
+#: core/LimitLoginAttempts.php:1270
+msgid "Cleared IP log"
+msgstr "IP log gewist"
+
+#: core/LimitLoginAttempts.php:1063
+msgid "WC Error"
+msgstr "WC Fout"
+
+#: core/LimitLoginAttempts.php:1038
+msgid "<strong>ERROR</strong>: Incorrect username or password."
+msgstr "<strong>FOUT</strong>: Ongeldige gebruikersnaam of wachtwoord."
+
+#: core/LimitLoginAttempts.php:958
+msgid "Please try again in %d minute."
+msgid_plural "Please try again in %d minutes."
+msgstr[0] "Probeer het opnieuw over %d minuut."
+msgstr[1] "Probeer het opnieuw over %d minuten."
+
+#: core/LimitLoginAttempts.php:956
+msgid "Please try again in %d hour."
+msgid_plural "Please try again in %d hours."
+msgstr[0] "Probeer het opnieuw over %d uur."
+msgstr[1] "Probeer het opnieuw over %d uren."
+
+#: core/LimitLoginAttempts.php:948
+msgid "Please try again later."
+msgstr "Probeer het later opnieuw."
+
+#: core/LimitLoginAttempts.php:940
+msgid "<strong>ERROR</strong>: Too many failed login attempts."
+msgstr "<strong>FOUT</strong>: Te veel mislukte inlogpogingen."
+
+#: core/LimitLoginAttempts.php:714
+msgid "IP was blocked for %s"
+msgstr "IP geblokkeerd voor %s"
+
+#: core/LimitLoginAttempts.php:712
+msgid "IP was NOT blocked because of external whitelist."
+msgstr "IP NIET geblokkeerd op grond van externe whitelist."
+
+#: core/LimitLoginAttempts.php:708
+msgid "Last user attempted: %s"
+msgstr "Laatste poging door gebruiker: %s"
+
+#: core/LimitLoginAttempts.php:704
+msgid "%d failed login attempts (%d lockout(s)) from IP: %s"
+msgstr "%d ongeldige inlogpogingen (%d buitensluiting(en)) vanaf IP: %s"
+
+#: core/LimitLoginAttempts.php:699
+msgid "[%s] Too many failed login attempts"
+msgstr "[%s] Te veel ongeldige inlogpogingen"
+
+#: core/LimitLoginAttempts.php:695
+msgid "[%s] Failed login attempts from whitelisted IP"
+msgstr "[%s] Ongeldige inlogpogingen vanaf IP op whitelist"
+
+#: core/LimitLoginAttempts.php:688
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] "%d minuut"
+msgstr[1] "%d minuten"
+
+#: core/LimitLoginAttempts.php:682
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] "%d uur"
+msgstr[1] "%d uren"
+
+#: core/LimitLoginAttempts.php:280 core/LimitLoginAttempts.php:1122
+msgid "<strong>%d</strong> attempt remaining."
+msgid_plural "<strong>%d</strong> attempts remaining."
+msgstr[0] "nog <strong>%d</strong> poging over."
+msgstr[1] "nog <strong>%d</strong> pogingen over."
